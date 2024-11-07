@@ -1,16 +1,14 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 💙
 
-<!--
-**Annelek/Annelek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É ANNELEK
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagen JavaScript
+- Ultilizo esse espaço para minha organização e compartihamento DOS MEUS PROJETOS DESENVOLVIDOS
 
-Here are some ideas to get you started:
+- ### VOCÊ ENTRA EM CONTATO COMIGO 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ annevitoriayamada58@gmail.com   
+
+![](https://media1.tenor.com/m/5NT-RovZ_FoAAAAd/scooby-doo-scooby.gif) 
+
+ 
